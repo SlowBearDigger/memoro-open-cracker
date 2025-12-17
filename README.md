@@ -2,7 +2,7 @@
 
 **By @SlowBearDigger**
 
-Hey guys, this is a tool I put together to help crack the Memoro Vault challenge. It's built in Rust so it's blazing fast, and I've set it up so you don't need to be a coder to use it. You just edit a config file and run it.
+Designed to audit and recover access to the [Memoro Vault](https://github.com/Kasmaristo-Delvakto/memoro-vault) (by Kasmaristo Delvakto). This tool demonstrates how a partial knowledge of the target (Dictionary Attack) can bypass the vault's security if weak answers are used.
 
 ## 🚀 Step 1: Install Rust (If you don't have it)
 
